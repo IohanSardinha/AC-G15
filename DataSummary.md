@@ -63,12 +63,43 @@ Avarage: 44.802
 
 ## Disposition
 ### Type
-| DISPONENT | OWNER |
+| OWNER | DISPONENT |
 | --- | --- |
 | 4500 | 869 | 
 ![](images/DU/disposition_type.png)
 
 
 ## District Data
-## Inhabitants
 ![](images/DU/districts_inhabitants.png)
+
+![](images/DU/districts_inhabitants.png) ![](images/DU/districts_urbanization.png)
+![](images/DU/districts_inhabitants.png) ![](images/DU/districts_employement95.png)
+![](images/DU/districts_inhabitants.png) ![](images/DU/districts_employement96.png)
+![](images/DU/districts_inhabitants.png) ![](images/DU/districts_average_salary.png)
+![](images/DU/districts_inhabitants.png) ![](images/DU/districts_enterpreneurs.png)
+![](images/DU/districts_inhabitants.png) ![](images/DU/districts_average_salary.png)
+![](images/DU/districts_inhabitants.png) ![](images/DU/districts_average_salary.png)
+![](images/DU/districts_inhabitants.png) ![](images/DU/districts_average_salary.png)
+![](images/DU/districts_inhabitants.png) ![](images/DU/districts_crime95.png)
+![](images/DU/districts_inhabitants.png) ![](images/DU/districts_crime96.png)
+
+
+## Loan
+
+| Field | Avarage |
+| --- | --- |
+| amount | 145308.621951 |
+| payments | 4150.932927 |
+
+![](images/DU/loan_status.png)
+![](images/DU/loan_durations.png)
+
+## Transaction
+### 
+|  |  |
+| --- | --- |
+| credit | 159468 |
+| withdrawal | 232093 |
+| withdrawal in cash | 5124 |
+
+![](images/DU/transaction_type.png)
