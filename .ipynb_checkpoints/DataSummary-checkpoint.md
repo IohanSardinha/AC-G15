@@ -103,3 +103,10 @@ Avarage: 44.802
 | withdrawal in cash | 5124 |
 
 ![](images/DU/transaction_type.png)
+
+# Relations on final loanDataset
+### Has the same district account and client
+![](images/DU/loan_fail_distric_same.png) ![](images/DU/loan_success_distric_same.png)
+    
+
+![](images/DU/district_success_vs_loan.png)
