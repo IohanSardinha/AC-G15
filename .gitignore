@@ -1,1 +1,4 @@
-predictions/
+code/predictions/
+license
+.ipynb_checkpoints/
+.vscode/
